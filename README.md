@@ -1,2 +1,2 @@
 # DeepLearning-Practices
-My deepLearning practices
+My own deepLearning practices with tensorflow.
